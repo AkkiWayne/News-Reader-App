@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NewsReportApp</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_news_stories_found">No News updates available, please reload the app or check after some time.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+    <string name="section_label">Sort by Section - </string>
+    <string name="section_key" translatable="false">section</string>
+    <string name="section_default_key" translatable="false"></string>
+    <string name="section_football_label">Football</string>
+    <string name="section_football_value" translatable="false">football</string>
+    <string name="section_default_label">Random Selections</string>
+    <string name="section_default_value">default</string>
+    <string name="section_art_and_design_label">Art and Design</string>
+    <string name="section_art_and_design_value" translatable="false">artanddesign</string>
+    <string name="section_education_label">Education</string>
+    <string name="section_education_value" translatable="false">education</string>
+    <string name="section_books_label">Books</string>
+    <string name="section_books_value" translatable="false">books</string>
+    <string name="section_business_label">Business</string>
+    <string name="section_business_value" translatable="false">business</string>
+    <string name="section_cities_label">Cities</string>
+    <string name="section_cities_value" translatable="false">cities</string>
+    <string name="section_environment_label">Environment</string>
+    <string name="section_environment_value" translatable="false">environment</string>
+</resources>
